@@ -1,0 +1,227 @@
+@media(max-width: 575.99px){
+
+    /* main navbar*/
+    .main_navbar .navbar-toggler:focus{
+        box-shadow:none;
+        box-shadow: 0 8px 10px rgb(0, 0, 0,0.2);
+        
+    }
+    .main_navbar .navbar-toggler{
+        background: #fff;
+        box-shadow: 0 0 0 0 transparent;
+        margin-right: 10px;
+    }
+    .main_navbar .navbar.nav {
+        text-align: center;
+    }
+    .main_navbar .navbar-collapse {
+        text-align: center;
+        background: #ffff;
+        padding-bottom: 20px;
+    }
+    .main_navbar .container{
+        padding: 0;
+        margin: 0;
+    }
+    .main_navbar .navbar-brand {
+        margin-left: 10px;
+    }
+    .main_navbar .login_btn a {
+        padding: 4px 14px;
+        color: #fff;
+        font-size: 15px;
+    }
+    /* main navbar part css*/
+
+    /* banner part css*/
+    #banner_part {
+        padding: 60px 0 20px 0;
+    }
+    #banner_part .text h1 {
+        font-size: 45px;
+        padding-top: 16px;
+        
+    }
+    #banner_part .text h2 {
+        font-size: 55px;
+        line-height: 6px;
+    }
+    #banner_part .text p {
+        font-size: 14px;
+        line-height: 24px;
+        padding: 22px 0;
+        text-align: justify;
+    }
+    #banner_part .text a {
+        padding: 5px 10px;
+        font-size: 17px;
+    }   
+    /* banner part css*/
+    /* history part css start*/
+    #history_valen {
+        padding: 40px 0;
+    }
+    .heading h3 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+    .heading h3 span {
+        font-size: 29px;
+    }
+    #history_valen p {
+        line-height: 24px;
+        text-align: justify;
+    }
+   
+    /* history part css end*/
+    /* history part css start*/
+    
+    #velen_gift {
+        padding: 40px 0 0 0;
+    }
+    #velen_gift .text p {
+        font-size: 14px;
+        color: #444444;
+        font-weight: 400;
+        font-family: 'Open Sans', sans-serif;
+        line-height: 23px;
+        text-align: justify;
+    }
+    #velen_gift .img img {
+        position: initial;
+        width: 100%;
+    }
+    #velen_gift .text a {
+        padding: 5px 10px;
+        font-size: 16px;
+       
+    }
+   
+    /* history part css end*/
+    /* couple part css start*/
+
+    #couple_part {
+        padding: 40px 0;
+    }
+    #couple_part .text .heading h3 img {
+        left: 86%;
+    }
+    #couple_part .text .heading h3 {
+        margin-right: 20px;
+    }
+    #couple_part .text p {
+        line-height: 24px;
+        text-align: justify;
+    }
+    #couple_part .text a {
+        padding: 5px 14px;
+        font-size: 16px;
+    }
+
+    /* couple part css end*/
+    /* services part css start*/
+    #services_part {
+        padding: 40px 0;
+        background: #FEFAFC;
+    }
+    #services_part .right_text p, 
+    #services_part .left_text p {
+        line-height: 24px;
+        text-align: justify;
+    }
+    #services_part .right_text {
+        padding: 4px 13px;
+    }
+    
+    /* services part css end*/
+
+    /* services part css star*/
+    #coptures_part {
+        padding: 10px 0;
+    }
+    #coptures_part .text {
+        padding-top: 30px;
+    }
+    .heading h3 {
+        margin-right: 20px;
+    }
+    #coptures_part .text .heading h3 img {
+        left: 88%;
+    }
+    #coptures_part .text p {
+        line-height: 24px;
+        text-align: justify;
+    }
+    #coptures_part .text a {
+        padding: 5px 14px;
+        font-size: 16px;
+    }
+    #coptures_part .img .overlay .text{
+        width:70%;
+    }
+    /* services part css end*/
+    /* counter part css start*/
+    #counter_part {
+        background-attachment: fixed;
+        padding: 30px 0;
+        margin-top: 10px;
+    }
+    #counter_part .text {
+        padding-bottom: 14px;
+    }
+    
+    /* counter part css end*/
+    /* testimomial part css end*/
+
+    #testimomial_part {
+        padding: 40px 0 143px 0;
+    }
+    #testimomial_part .main .item .text {
+        padding: 10px 14px;
+        margin-left:0;
+        margin-right:0;
+        text-align: justify;
+    }
+    #testimomial_part .prev {
+        top: 109%;
+        left: 0px;
+        width: 44px;
+        height: 44px;
+        line-height: 41px;
+    }
+    #testimomial_part .next {
+        top: 109%;
+        right: 0px;
+        width: 44px;
+        height: 44px;
+        line-height: 41px;
+    }
+    /* testimomial part css end*/
+
+    /* fotter part css end*/    
+    #footet_part .footer_top {
+        background: #d50a51;
+        border-radius:8px;
+        transform: translateY(-50%);
+        padding: 15px 20px;
+    }
+    #footet_part .footer_top .text h2 {
+        padding-left:35px;
+        color: #fff;
+        line-height: 21px;
+        font-size: 30px;
+        letter-spacing: 0px;
+    }
+    #footet_part .footer_top .text img {
+        top: -9px;
+        left: -18px;
+    }
+    #footet_part .footer_top .text p {
+        padding-left: 35px;
+        font-size: 11px;
+    }
+    #footet_part .footer_top form input {
+        margin-bottom: 15px;
+    }
+    /* fotter part css end*/
+}
